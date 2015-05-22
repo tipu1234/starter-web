@@ -2,4 +2,3 @@ tipu
 tipu
 tipu
 dipu
-lipu
